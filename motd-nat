@@ -3,3 +3,15 @@
 \ \___  \  \ \___  \  \ \  __ \     \ \ \  \ \ \-.  \  \ \ \____  \ \  __\   \ \  _-/ \/_/\ \/ \ \ \  \ \ \/\ \  \ \ \-.  \
  \/\_____\  \/\_____\  \ \_\ \_\     \ \_\  \ \_\\"\_\  \ \_____\  \ \_____\  \ \_\      \ \_\  \ \_\  \ \_____\  \ \_\\"\_\
   \/_____/   \/_____/   \/_/\/_/      \/_/   \/_/ \/_/   \/_____/   \/_____/   \/_/       \/_/   \/_/   \/_____/   \/_/ \/_/
+
+Welcome to SSH Inception. The goal is to answer all questions by exploring then local network at 10.0.0.0/27
+Your are currently at the NAT Instance your journey will begin when you login into the host with the following
+information:
+
+IP Address: 10.0.0.5
+User: 
+Password:
+
+For every instance you login to you will be greeted with instructions. Each machine will give you a list of 
+useful commands to solve each challenge. Use man pages to help find useful options for commands. For example
+if the instructions say to use the command 'ssh' entering 'man ssh' will print the man page.
