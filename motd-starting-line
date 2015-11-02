@@ -9,6 +9,7 @@
 
 /****************************************************************************************************\
 
-Instructions go here.
+Go a level deeper. You will find the next host at 10.0.0.7. The trick is that the ssh port has been 
+changed to 123. Good luck!   User: mal   Pass: inception
 
 \****************************************************************************************************/  
