@@ -13,6 +13,9 @@
 
 /****************************************************************************************************\
 
-Instructions go here.
+Someone incepted the username and password the next stop in one of these directories.
+It sure would take a long time to look through all of them. There has to be a better way...
+
+Helpful commands: grep, find, cat, ssh
 
 \****************************************************************************************************/
