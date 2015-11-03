@@ -8,6 +8,9 @@
 
 /****************************************************************************************************\
 
-Instructions go here.
+SSH a level deeper if you dare. This time no password is provided. However, you might find the file private_key.pem helpful...
+
+Host: 10.0.0.15
+User: cobb
 
 \****************************************************************************************************/
